@@ -6,9 +6,7 @@ A deep learning project that can identify 120 different dog breeds from images. 
 
 ## Quick Start
 
-Want to try it out right away? Open the notebook in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalehAlomair/dog-vision-classifier/blob/main/your-notebook-name.ipynb)
+Want to try it out right away? Open the notebook in [Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16DG8xRCfVJeg907qYEvEkDrv8Cqcwwqj)
 
 ## What it does?
 
