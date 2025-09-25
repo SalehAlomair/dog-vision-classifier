@@ -6,7 +6,7 @@ A deep learning project that can identify 120 different dog breeds from images. 
 
 ## Quick Start
 
-Want to try it out right away? Open the notebook in [Google Colab](https://colab.research.google.com/drive/16DG8xRCfVJeg907qYEvEkDrv8Cqcwwqj) *(I personally suggest that)*
+Want to try it out right away? Open the notebook in [Google Colab](https://colab.research.google.com/drive/16DG8xRCfVJeg907qYEvEkDrv8Cqcwwqj) *(much easier than local setup)*
 ## What it does?
 
 Upload a photo of any dog and the model will predict which of the 120 breeds it thinks the dog is. I used transfer learning with TensorFlow to build on top of pre-trained models rather than starting from scratch.
